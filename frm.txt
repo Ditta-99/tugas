@@ -1,0 +1,10 @@
+[
+    {
+        "nama": "RINA",
+        "jabatan": "GURU"
+    },
+    {
+        "nama": "BUDI",
+        "jabatan": "POLISI"
+    }
+]

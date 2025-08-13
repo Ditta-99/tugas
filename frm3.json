@@ -1,0 +1,18 @@
+[
+    {
+        "merek": "Honda",
+        "tahun": "2021"
+    },
+    {
+        "merek": "Yamaha",
+        "tahun": "2017"
+    },
+    {
+        "merek": "Hyundai",
+        "tahun": "2015"
+    },
+    {
+        "merek": "BMW",
+        "tahun": "2012"
+    }
+]
